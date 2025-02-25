@@ -1,3 +1,4 @@
+
 try:
     m=int(input("Podaj koniec zakresu : "))
     if m<1 or m>10000:
